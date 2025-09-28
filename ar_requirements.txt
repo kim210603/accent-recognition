@@ -1,0 +1,8 @@
+streamlit
+streamlit-mic-recorder
+plotly
+pandas
+numpy
+librosa
+soundfile
+pydub
